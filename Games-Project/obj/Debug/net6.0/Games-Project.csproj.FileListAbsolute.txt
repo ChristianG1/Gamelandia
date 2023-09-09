@@ -1,0 +1,15 @@
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/bin/Debug/net6.0/Games-Project
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/bin/Debug/net6.0/Games-Project.deps.json
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/bin/Debug/net6.0/Games-Project.runtimeconfig.json
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/bin/Debug/net6.0/Games-Project.dll
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/bin/Debug/net6.0/Games-Project.pdb
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/Games-Project.csproj.AssemblyReference.cache
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/Games-Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/Games-Project.AssemblyInfoInputs.cache
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/Games-Project.AssemblyInfo.cs
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/Games-Project.csproj.CoreCompileInputs.cache
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/Games-Project.dll
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/refint/Games-Project.dll
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/Games-Project.pdb
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/Games-Project.genruntimeconfig.cache
+/Users/christiangeorge/Desktop/SEPTIEMBRE/CURSOS/Curso básico de programación con C#/Games-Project/Games-Project/obj/Debug/net6.0/ref/Games-Project.dll
